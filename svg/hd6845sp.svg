@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.919596"
-     inkscape:cx="528.47574"
-     inkscape:cy="43.934671"
+     inkscape:zoom="3.959798"
+     inkscape:cx="-296.83669"
+     inkscape:cy="1417.9446"
      inkscape:document-units="mm"
      inkscape:current-layer="layer12"
      showgrid="false"
@@ -12819,7 +12819,7 @@
          x="129.0975"
          y="5.988739"
          style="font-size:1.41111112px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke:none;stroke-width:0.26458332"
-         id="tspan2642-2">VERTICAL DISPLAYED REGISTER (R6)</tspan></text>
+         id="tspan2642-2">VERTICAL DISPLAYED COMPARATOR</tspan></text>
     <text
        id="text4920"
        y="38.261536"
@@ -12830,18 +12830,18 @@
          style="font-size:1.41111112px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke:none;stroke-width:0.26458332"
          y="38.261536"
          x="129.0975"
-         sodipodi:role="line">VERTICAL TOTAL REGISTER (R4)</tspan></text>
+         sodipodi:role="line">VERTICAL TOTAL COMPARATOR</tspan></text>
     <text
        id="text5100"
        y="-26.284056"
-       x="129.0975"
+       x="125.42255"
        style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          id="tspan5098"
          style="font-size:1.41111112px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke:none;stroke-width:0.26458332"
          y="-26.284056"
-         x="129.0975"
-         sodipodi:role="line">VERTICAL SYNC REGISTER (R7)</tspan></text>
+         x="125.42255"
+         sodipodi:role="line">VERTICAL SYNC POSITION COMPARATOR</tspan></text>
     <path
        style="fill:none;stroke:#ffffff;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 99.206421,142.55484 H 234.51991 v 29.97228 H 99.365071 l -0.158126,-29.97228 z"
@@ -12858,7 +12858,7 @@
          x="155.55585"
          y="145.13429"
          style="font-size:1.41111112px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke:none;stroke-width:0.26458332"
-         id="tspan5120">HORIZONTAL SYNC POSITION REGISTER (R2)</tspan></text>
+         id="tspan5120">HORIZONTAL SYNC POSITION COMPARATOR</tspan></text>
     <path
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
@@ -12875,7 +12875,7 @@
          style="font-size:1.41111112px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke:none;stroke-width:0.26458332"
          y="110.73846"
          x="155.55585"
-         sodipodi:role="line">HORIZONTAL TOTAL REGISTER (R0)</tspan></text>
+         sodipodi:role="line">HORIZONTAL TOTAL COMPARATOR</tspan></text>
     <path
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
@@ -12903,11 +12903,11 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="-100.41348"
-       y="-22.882271"
+       y="1.2388039"
        id="text5148"><tspan
          sodipodi:role="line"
          x="-100.41348"
-         y="-22.882271"
+         y="1.2388039"
          style="font-size:1.41111112px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke:none;stroke-width:0.26458332"
          id="tspan5146">CURSOR START RASTER REGISTER (R12)</tspan></text>
     <path
@@ -12926,7 +12926,7 @@
          style="font-size:1.41111112px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke:none;stroke-width:0.26458332"
          y="24.357618"
          x="-94.199463"
-         sodipodi:role="line">CURSOR REGISTER HIGH (R14)</tspan></text>
+         sodipodi:role="line">CURSOR REGISTER HIGH COMPARATOR</tspan></text>
     <path
        style="fill:none;stroke:#ffffff;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -130.0317,69.793741 H -28.060259 V 85.483479 H -129.91214 l -0.11917,-15.689738 z"
@@ -13045,7 +13045,7 @@
          style="font-size:1.41111112px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke:none;stroke-width:0.26458332"
          y="-77.718658"
          x="189.54002"
-         sodipodi:role="line">SYNC WIDTH (H) REGISTER (R3 - 0/1/2/3)</tspan></text>
+         sodipodi:role="line">SYNC WIDTH (H) COMPARATOR</tspan></text>
     <path
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
@@ -13062,7 +13062,7 @@
          x="110.71841"
          y="-77.877808"
          style="font-size:1.41111112px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke:none;stroke-width:0.26458332"
-         id="tspan5389">VERTICAL TOTAL ADJUST REGISTER (R5)</tspan></text>
+         id="tspan5389">VERTICAL TOTAL ADJUST COMPARATOR</tspan></text>
     <path
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
@@ -13142,6 +13142,162 @@
          y="234.38426"
          x="153.79823"
          sodipodi:role="line">ADDRESS REGISTER</tspan></text>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3320"
+       d="M 12.875137,80.006056 H 69.461964 V 227.44073 H 12.941484 C 12.317353,178.3184 12.875357,80.006056 12.875357,80.006056 Z"
+       style="fill:none;stroke:#ffffff;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="36.866955"
+       y="82.628273"
+       id="text1985-1-3-8-8-3-8"><tspan
+         sodipodi:role="line"
+         x="36.866955"
+         y="82.628273"
+         style="font-size:1.41111112px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke:none;stroke-width:0.26458332"
+         id="tspan2642-1-6">LINE COUNTER</tspan></text>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 12.862595,-12.799742 H 69.474608 V 69.459332 H 12.928971 c -0.624409,-27.407105 -0.06616,-82.259074 -0.06616,-82.259074 z"
+       id="path3340"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="26.58334"
+       y="-10.065148"
+       id="text1985-1-3-8-8-3-8-7"><tspan
+         sodipodi:role="line"
+         x="26.58334"
+         y="-10.065148"
+         style="font-size:1.41111112px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke:none;stroke-width:0.26458332"
+         id="tspan2642-1-6-5">HORIZONTAL SYNC WIDTH COUNTER</tspan></text>
+    <text
+       id="text3362"
+       y="162.17273"
+       x="155.55585"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan3360"
+         style="font-size:1.41111112px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke:none;stroke-width:0.26458332"
+         y="162.17273"
+         x="155.55585"
+         sodipodi:role="line">HORIZONTAL SYNC POSITION REGISTER (R2)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="155.55585"
+       y="129.7146"
+       id="text3366"><tspan
+         sodipodi:role="line"
+         x="155.55585"
+         y="129.7146"
+         style="font-size:1.41111112px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke:none;stroke-width:0.26458332"
+         id="tspan3364">HORIZONTAL TOTAL REGISTER (R0)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="129.0975"
+       y="54.965881"
+       id="text3370"><tspan
+         sodipodi:role="line"
+         x="129.0975"
+         y="54.965881"
+         style="font-size:1.41111112px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke:none;stroke-width:0.26458332"
+         id="tspan3368">VERTICAL TOTAL REGISTER (R4)</tspan></text>
+    <text
+       id="text3374"
+       y="23.160807"
+       x="129.0975"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan3372"
+         style="font-size:1.41111112px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke:none;stroke-width:0.26458332"
+         y="23.160807"
+         x="129.0975"
+         sodipodi:role="line">VERTICAL DISPLAYED REGISTER (R6)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="125.42255"
+       y="-9.3124409"
+       id="text3378"><tspan
+         sodipodi:role="line"
+         x="125.42255"
+         y="-9.3124409"
+         style="font-size:1.41111112px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke:none;stroke-width:0.26458332"
+         id="tspan3376">VERTICAL SYNC POSITION REGISTER (R7)</tspan></text>
+    <text
+       id="text3382"
+       y="-60.238018"
+       x="110.71841"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan3380"
+         style="font-size:1.41111112px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke:none;stroke-width:0.26458332"
+         y="-60.238018"
+         x="110.71841"
+         sodipodi:role="line">VERTICAL TOTAL ADJUST REGISTER (R5)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="189.54002"
+       y="-60.145687"
+       id="text3386"><tspan
+         sodipodi:role="line"
+         x="189.54002"
+         y="-60.145687"
+         style="font-size:1.41111112px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke:none;stroke-width:0.26458332"
+         id="tspan3384">SYNC WIDTH (H) REGISTER (R3 - 0/1/2/3)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-106.53811"
+       y="154.20447"
+       id="text3390"><tspan
+         sodipodi:role="line"
+         x="-106.53811"
+         y="154.20447"
+         style="font-size:1.41111112px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke:none;stroke-width:0.26458332"
+         id="tspan3388">CURSOR REGISTER LOW COMPARATOR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-94.199463"
+       y="41.596504"
+       id="text3394"><tspan
+         sodipodi:role="line"
+         x="-94.199463"
+         y="41.596504"
+         style="font-size:1.41111112px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke:none;stroke-width:0.26458332"
+         id="tspan3392">CURSOR REGISTER HIGH (R14)</tspan></text>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -113.37318,-64.123366 h 85.328942 v 13.31432 h -85.228892 l -0.0997,-13.31432 z"
+       id="path3396"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       id="text5225-3"
+       y="-61.919495"
+       x="-84.959938"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan5223-4"
+         style="font-size:1.41111112px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke:none;stroke-width:0.26458332"
+         y="-61.919495"
+         x="-84.959938"
+         sodipodi:role="line">CURSOR END RASTER REGISTER (R11)</tspan></text>
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path3416"
+       d="m -113.35701,-101.52479 h 85.296599 v 23.371125 h -85.196579 l -0.0997,-23.371125 z"
+       style="fill:none;stroke:#ffffff;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"
