@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="-1269.1335"
-     inkscape:cy="729.26347"
+     inkscape:cx="-959.02071"
+     inkscape:cy="792.73926"
      inkscape:document-units="mm"
      inkscape:current-layer="layer12"
      showgrid="false"
@@ -13349,6 +13349,12 @@
          y="152.46461"
          style="font-size:1.41111112px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke:none;stroke-width:0.26458332"
          id="tspan3460">LINEAR ADDRESS GENERATOR</tspan></text>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -113.36406,-173.22695 h 85.310699 v 18.64131 h -85.210669 l -0.0997,-18.64131 z"
+       id="path3464"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
