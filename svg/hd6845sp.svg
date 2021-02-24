@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.117153"
-     inkscape:cx="-274.66821"
-     inkscape:cy="-793.72882"
+     inkscape:zoom="15.722029"
+     inkscape:cx="-885.78736"
+     inkscape:cy="-682.03907"
      inkscape:document-units="mm"
      inkscape:current-layer="layer11"
      showgrid="false"
@@ -60,12 +60,12 @@
     <image
        sodipodi:absref="C:\dev\git\hd6845sp\svg\hd6845metal_10000w.jpg"
        xlink:href="hd6845metal_10000w.jpg"
-       width="846.66669"
-       height="896.53534"
-       preserveAspectRatio="none"
-       id="image835"
+       y="-323.62482"
        x="-488.34525"
-       y="-323.62482" />
+       id="image835"
+       preserveAspectRatio="none"
+       height="896.53534"
+       width="846.66669" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -22583,6 +22583,149 @@
          x="-89.873413"
          y="499.03558"
          style="font-size:0.70555556px;line-height:1.25;font-family:sans-serif;fill:#ff00ff;stroke:none;stroke-width:0.26458332">/CLK</tspan></text>
+    <text
+       id="text5224"
+       y="485.61264"
+       x="-89.873413"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:0.70555556px;line-height:1.25;font-family:sans-serif;fill:#ff00ff;stroke:none;stroke-width:0.26458332"
+         y="485.61264"
+         x="-89.873413"
+         id="tspan5222"
+         sodipodi:role="line">/CLK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-46.556007"
+       y="485.20874"
+       id="text5233"><tspan
+         sodipodi:role="line"
+         id="tspan5231"
+         x="-46.556007"
+         y="485.20874"
+         style="font-size:0.70555556px;line-height:1.25;font-family:sans-serif;fill:#ff00ff;stroke:none;stroke-width:0.26458332">/CLK</tspan></text>
+    <text
+       id="text5238"
+       y="469.08673"
+       x="-46.556007"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:0.70555556px;line-height:1.25;font-family:sans-serif;fill:#ff00ff;stroke:none;stroke-width:0.26458332"
+         y="469.08673"
+         x="-46.556007"
+         id="tspan5236"
+         sodipodi:role="line">/CLK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-46.556007"
+       y="465.21609"
+       id="text5242"><tspan
+         sodipodi:role="line"
+         id="tspan5240"
+         x="-46.556007"
+         y="465.21609"
+         style="font-size:0.70555556px;line-height:1.25;font-family:sans-serif;fill:#ff00ff;stroke:none;stroke-width:0.26458332">/CLK</tspan></text>
+    <text
+       id="text5246"
+       y="445.15613"
+       x="-52.075863"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:0.70555556px;line-height:1.25;font-family:sans-serif;fill:#ff00ff;stroke:none;stroke-width:0.26458332"
+         y="445.15613"
+         x="-52.075863"
+         id="tspan5244"
+         sodipodi:role="line">/CLK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-69.779793"
+       y="447.07462"
+       id="text5250"><tspan
+         sodipodi:role="line"
+         id="tspan5248"
+         x="-69.779793"
+         y="447.07462"
+         style="font-size:0.70555556px;line-height:1.25;font-family:sans-serif;fill:#ff00ff;stroke:none;stroke-width:0.26458332">/CLK</tspan></text>
+    <text
+       id="text5254"
+       y="447.07462"
+       x="-78.901016"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:0.70555556px;line-height:1.25;font-family:sans-serif;fill:#ff00ff;stroke:none;stroke-width:0.26458332"
+         y="447.07462"
+         x="-78.901016"
+         id="tspan5252"
+         sodipodi:role="line">/CLK</tspan></text>
+    <text
+       id="text5258"
+       y="432.46719"
+       x="-43.762421"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:0.70555556px;line-height:1.25;font-family:sans-serif;fill:#ff00ff;stroke:none;stroke-width:0.26458332"
+         y="432.46719"
+         x="-43.762421"
+         id="tspan5256"
+         sodipodi:role="line">/CLK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-42.483429"
+       y="412.84479"
+       id="text5263"><tspan
+         sodipodi:role="line"
+         id="tspan5261"
+         x="-42.483429"
+         y="412.84479"
+         style="font-size:0.70555556px;line-height:1.25;font-family:sans-serif;fill:#ff00ff;stroke:none;stroke-width:0.26458332">/CLK</tspan></text>
+    <text
+       id="text5267"
+       y="411.9697"
+       x="-49.888115"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:0.70555556px;line-height:1.25;font-family:sans-serif;fill:#ff00ff;stroke:none;stroke-width:0.26458332"
+         y="411.9697"
+         x="-49.888115"
+         id="tspan5265"
+         sodipodi:role="line">/CLK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-48.137917"
+       y="356.73749"
+       id="text5271"><tspan
+         sodipodi:role="line"
+         id="tspan5269"
+         x="-48.137917"
+         y="356.73749"
+         style="font-size:0.70555556px;line-height:1.25;font-family:sans-serif;fill:#ff00ff;stroke:none;stroke-width:0.26458332">/CLK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-122.35305"
+       y="486.0502"
+       id="text5275"><tspan
+         sodipodi:role="line"
+         id="tspan5273"
+         x="-122.35305"
+         y="486.0502"
+         style="font-size:0.70555556px;line-height:1.25;font-family:sans-serif;fill:#ff00ff;stroke:none;stroke-width:0.26458332">/CLK</tspan></text>
+    <text
+       id="text5279"
+       y="486.0502"
+       x="-225.54742"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:0.70555556px;line-height:1.25;font-family:sans-serif;fill:#ff00ff;stroke:none;stroke-width:0.26458332"
+         y="486.0502"
+         x="-225.54742"
+         id="tspan5277"
+         sodipodi:role="line">/CLK</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
