@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.5585767"
-     inkscape:cx="-1391.5284"
-     inkscape:cy="1798.0089"
+     inkscape:zoom="7.8610146"
+     inkscape:cx="-1439.2354"
+     inkscape:cy="1791.6136"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer7"
      showgrid="false"
      showborder="false"
      inkscape:showpageshadow="false"
@@ -60,12 +60,12 @@
     <image
        sodipodi:absref="C:\dev\git\hd6845sp\svg\hd6845metal_10000w.jpg"
        xlink:href="hd6845metal_10000w.jpg"
-       width="846.66669"
-       height="896.53534"
-       preserveAspectRatio="none"
-       id="image835"
+       y="-323.62482"
        x="-488.34525"
-       y="-323.62482" />
+       id="image835"
+       preserveAspectRatio="none"
+       height="896.53534"
+       width="846.66669" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3905,6 +3905,51 @@
        style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:0.24705882;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 105.24749,392.38578 v -0.97604 h 2.75993 v -1.0939 h -0.75729 v -1.43044 h 1.5819 v 1.07704 l 0.20195,0.20195 v 5.40206 h -3.51722 v 13.90059 h -7.354204 v 38.35292 l 0.22719,0.2272 v 1.42203 h -1.657639 v -1.53144 l 0.383077,-0.22116 v -39.19194 h 7.324526 v -13.95111 h 3.75283 v -2.05311 h -2.7431 z"
        id="path7176"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.24705882;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -391.80878,-173.19747 v -1.61557 h 1.41362 l 0.33657,0.33658 h 18.94928 v 1.17802 h -18.94928 l -0.24958,0.14409 h -1.33233 z"
+       id="path6286"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.24705882"
+       d="m -389.99128,-171.44727 v -1.41362 h 1.41364 l 0.38706,0.38706 h 16.98027 v 0.9929 h -17.13174 l -0.30292,0.30292 h -1.17801 z"
+       id="path6288"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.24705882;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -370.16692,-174.37549 v -5.0823 h 0.90876 v 1.91848 h 0.87511 v 3.13016 l -0.13464,0.13464 h -1.41362 z"
+       id="path6290"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.24705882"
+       d="m -388.2074,-175.21693 v -1.51459 h 1.58189 l 0.37023,0.37023 h 9.76074 v 1.17802 h -9.89536 l -0.13462,0.13463 h -1.48095 z"
+       id="path6292"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.24705882;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -391.87609,-177.03444 v -1.61557 h 1.58189 l 0.25678,0.44476 h 18.69249 v 1.17081 h -18.64635 l -0.20193,0.20194 h -1.58191 z"
+       id="path6294"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.24705882"
+       d="m -388.07278,-178.78464 v -1.48094 h 1.37996 l 0.21878,0.21878 h 15.12911 v 1.06021 h -15.04497 l -0.22762,0.39427 h -1.15234 z"
+       id="path6296"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.24705882;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -370.67177,-181.81383 v -4.27452 h 2.42334 v 2.8609 h -1.58192 v 1.51459 h -0.63947 z"
+       id="path6298"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.24705882"
+       d="m -388.10644,-182.5543 v -1.54825 h 1.24534 l 0.23379,0.40494 h 13.63316 v 1.17697 h -13.66502 l -0.16827,0.16829 h -1.04339 z"
+       id="path6300"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.24705882;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -389.99128,-184.43913 v -1.54825 h 1.61557 l 0.2422,0.41951 h 10.99947 v 0.99411 h -11.03971 l -0.37023,0.37024 h -1.14438 z"
+       id="path6302"
        inkscape:connector-curvature="0" />
   </g>
   <g
@@ -28021,6 +28066,28 @@
          x="-367.54669"
          id="tspan6317"
          sodipodi:role="line">VCC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-375.40054"
+       y="-169.71317"
+       id="text6280"><tspan
+         sodipodi:role="line"
+         id="tspan6278"
+         x="-375.40054"
+         y="-169.71317"
+         style="font-size:0.70555556px;line-height:1.25;font-family:sans-serif;fill:#ff00ff;stroke:none;stroke-width:0.26458332">VSS</tspan></text>
+    <text
+       id="text6284"
+       y="-162.90649"
+       x="-375.40054"
+       style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:0.70555556px;line-height:1.25;font-family:sans-serif;fill:#ff00ff;stroke:none;stroke-width:0.26458332"
+         y="-162.90649"
+         x="-375.40054"
+         id="tspan6282"
+         sodipodi:role="line">VSS</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
